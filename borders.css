@@ -1,0 +1,65 @@
+#para1{
+    border-style: dotted;
+    border-color: chartreuse;
+    border-width: 5px;
+}
+#para2{
+    border-style: double;
+    border-color:blue;
+    border-width: 5px;
+}
+#para3{
+    border-style: groove;
+    border-color:darkcyan;
+    border-width: 5px;
+}
+#para4{
+    border-style:ridge;
+    border-color:darkmagenta;
+    border-width: 5px;
+}
+#para5{
+    border-style:inset;
+    border-color:deeppink;
+    border-width: 5px;
+}
+#para6{
+    border-style:dashed;
+    border-color:rgba(87, 41, 65, 0.427);
+    border-width: 5px;
+}
+#para7{
+    border-style:outset;
+    border-color:aqua;
+    border-width: 5px;
+}
+#para8{
+    border-style: solid;
+    border-color:hotpink;
+    border-width: 5px;
+}
+#para9{
+    /* short-hand property */
+    border-style: dotted dashed solid groove;
+}
+#para10{
+    /* Long-hand property */
+    border-top: 10px solid red;
+    border-right: 5px dotted greenyellow;
+    border-bottom: 20px groove purple;
+    border-left: 3px inset blue;
+}
+#para11{
+    border-radius: 10px ;
+    border-style: dotted dashed solid groove;
+}
+#para12{
+    /* shortest */
+    border: 65px groove palevioletred; 
+}
+#para13{
+    border-style:inset;
+    border-color:brown;
+    border-width: 15px;
+    border-radius: 7px ;
+}
